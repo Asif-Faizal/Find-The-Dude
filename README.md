@@ -1,6 +1,6 @@
 # Find-the-Dude
 
-## Find the Dude: Your Personal Photo Detective
+## Your Personal Photo Detective
 
 Find the Dude is an innovative app designed to help you locate similar photos of a person across the web. Whether you're trying to find additional images of a friend, verify the identity of someone, or simply curious about where else a photo appears online, Find the Dude makes it easy and efficient. Here's how it works:
 
