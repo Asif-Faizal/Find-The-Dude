@@ -1,16 +1,7 @@
-# alruism
+# Find-the-Dude
+[API repo](https://github.com/Asif-Faizal/Find-The-Dude-API)
 
-A new Flutter project.
+## Screenshot
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled design (4)](https://github.com/Asif-Faizal/Find-The-Dude/assets/112123678/cc6c82f0-6257-41df-b81a-160924d6b902)
+![Untitled design (5)](https://github.com/Asif-Faizal/Find-The-Dude/assets/112123678/93be7473-cd24-47b3-9f10-c232cd08c6d8)
